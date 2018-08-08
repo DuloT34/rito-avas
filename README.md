@@ -1,4 +1,2 @@
 # rito-avas
-# rito-avas
-# rito-avas
-# rito-avas2
+Avas for rito
